@@ -1,16 +1,38 @@
-## Hi there 👋
+# 👋 Hi, I'm mrvxk!
 
-<!--
-**mrvxk/mrvxk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🚀 Backend & DevOps Engineer | Clean Code Enthusiast | Software Architecture Fan  
+Welcome to my GitHub! I'm a backend and DevOps engineer passionate about clean, efficient, and maintainable code. I enjoy building robust software systems, automating workflows, and crafting architectures that just make sense.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠️ Top Skills
+
+- **Java, Spring Boot, COBOL**
+- **Backend & DevOps Engineering**
+- **Kubernetes, ArgoCD & Docker**
+- **CI/CD Pipelines & Automation**
+- **Software Architecture & Design Patterns**
+- **A bit of UI (Angular / Vue)**
+- **Clean Code, Agile Practices & Team Collaboration**
+
+---
+
+## 🌟 Featured Projects
+
+- **dynqr**  
+  Solution for creating, managing, and analyzing dynamic QR codes with full control over your data.  
+  [Visit Website](#)
+
+---
+
+## 📫 Connect With Me
+
+- [LinkedIn](#)
+- [Personal Website](#)
+
+Let's connect, discuss software architecture, or chat about clean code and DevOps best practices!
+
+---
+
+> _"People are non-linear, first-order components in software development."_  
+> — Alistair Cockburn
