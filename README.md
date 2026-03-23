@@ -1,4 +1,4 @@
-# 👋 Hi, I'm mrvxk!
+# 👋 Hi, I'm marvin!
 
 🚀 Backend & DevOps Engineer | Clean Code Enthusiast | Software Architecture Fan  
 Welcome to my GitHub! I'm a backend and DevOps engineer passionate about clean, efficient, and maintainable code. I enjoy building robust software systems, automating workflows, and crafting architectures that just make sense.
@@ -21,7 +21,7 @@ Welcome to my GitHub! I'm a backend and DevOps engineer passionate about clean, 
 
 - **dynqr**  
   Solution for creating, managing, and analyzing dynamic QR codes with full control over your data.  
-  [Visit Website](#)
+  [Visit Website](https://dynqr.codes/)
 
 ---
 
